@@ -1,0 +1,20 @@
+.btn-link,
+.btn-link:active,
+.btn-link[disabled] {
+  text-align:left;
+  white-space: normal;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container-navbar{	padding-left: 20px;
+	padding-right: 20px;}
+
+.unit {	padding: 20px;	color: inherit;	background-color: #eeeeee;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;}
+
+.subhead {
+	color: #fff;
+}

@@ -1,0 +1,2 @@
+<?if($caption!='' && $type!='hidden'):?><label><?=$caption?><?if($required):?> <em>*</em><?endif;?></label><?endif;?>
+<input id="<?=$name?>" class="<?=$class?> <?=$required?> datepicker" type="text" value="<?=htmlspecialchars($value)?>" name="<?=$name?>" placeholder="<?=$placeholder?>">
